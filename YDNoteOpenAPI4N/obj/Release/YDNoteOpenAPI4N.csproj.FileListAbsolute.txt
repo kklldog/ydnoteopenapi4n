@@ -1,0 +1,17 @@
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\YDNoteOpenAPI4N.dll.config
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\YDNoteOpenAPI4N.dll
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\YDNoteOpenAPI4N.pdb
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\DotNetOpenAuth.Core.dll
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\DotNetOpenAuth.OAuth.Consumer.dll
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\DotNetOpenAuth.OAuth.dll
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\Newtonsoft.Json.dll
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\System.Net.Http.dll
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\System.Net.Http.WebRequest.dll
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\DotNetOpenAuth.Core.xml
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\DotNetOpenAuth.OAuth.xml
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\DotNetOpenAuth.OAuth.Consumer.xml
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\Newtonsoft.Json.xml
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\System.Net.Http.xml
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\bin\Release\System.Net.Http.WebRequest.xml
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\obj\Release\YDNoteOpenAPI4N.dll
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N\obj\Release\YDNoteOpenAPI4N.pdb

@@ -1,0 +1,10 @@
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N.Test.Web\bin\YDNoteOpenAPI4N.Test.Web.dll
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N.Test.Web\bin\YDNoteOpenAPI4N.Test.Web.pdb
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N.Test.Web\bin\YDNoteOpenAPI4N.dll
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N.Test.Web\bin\Newtonsoft.Json.dll
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N.Test.Web\bin\System.Net.Http.dll
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N.Test.Web\bin\YDNoteOpenAPI4N.pdb
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N.Test.Web\bin\Newtonsoft.Json.xml
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N.Test.Web\obj\Release\YDNoteOpenAPI4N.Test.Web.csprojResolveAssemblyReference.cache
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N.Test.Web\obj\Release\YDNoteOpenAPI4N.Test.Web.dll
+E:\GitRepos\ydnoteopenapi4n\YDNoteOpenAPI4N.Test.Web\obj\Release\YDNoteOpenAPI4N.Test.Web.pdb
